@@ -8,5 +8,5 @@
 
 - [x] Linked List
 - [x] Hash Table
-- [ ] Binary search tree
+- [x] Binary search tree
 - [ ] Stacks and Queues
