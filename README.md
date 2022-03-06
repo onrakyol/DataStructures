@@ -9,4 +9,4 @@
 - [x] Linked List
 - [x] Hash Table
 - [x] Binary search tree
-- [ ] Stacks and Queues
+- [x] Stacks and Queues
